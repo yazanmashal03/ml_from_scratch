@@ -327,4 +327,4 @@ but rather to present the inner workings of them in a transparent and accessible
 
 ## Contact
 If there's some implementation you would like to see here or if you're just feeling social,
-feel free to [email](mailto:eriklindernoren@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/eriklindernoren/).
+feel free to [email](mailto:yazanmashal03@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/yazan-mash-al-236a88220/).
